@@ -5,7 +5,9 @@ Module 1 challenge - HTML CSS Git Challenge
 
 This project is aimed at enhancing the structural and semantic aspects of an "index.html" file. The primary goal is to improve the overall accessibility, readability and search engine optimization of the HTML document. This involves updating HTML semantic elements, adding logical structure alongside styling and positioning, including alt attributes for icon and image elements, and providing a concise, descriptive title for the HTML document.
 
-The key of this objective was to clean up a code 
+## Key Objectives
+
+The key of this objective was to clean up a code within the index.html & style.css file and then deploy the application with a live URL. By achieving this objective, the project aims to enhance the user experience and search engine visibility of the web page.
 
 ## Table of Contents
 
@@ -14,6 +16,33 @@ The key of this objective was to clean up a code
 - [Features]
 
 ## Usage
+The steps with this project are:
+
+-Clone Repository: Start by cloning the project repository to your computer.
+
+-Navigate to HTML File: Locate the index.html file within the project directory.
+
+-Edit index.html:
+
+-Update HTML Semantic Elements: Ensure that HTML semantic elements are used appropriately to reflect the correct structure and meaning of the content.
+
+-Add Logical Structure: Implement a logical structure within the HTML document, focusing on content hierarchy and independence from styling and positioning.
+
+-Add Alt Attributes: Include alt attributes for icon and image elements. These attributes should provide descriptive text to serve as alternative content in case the images cannot be displayed.
+
+-Update Title Element: Edit the title element to provide a concise and descriptive title for the HTML document, helping with search engine optimization and user understanding.
+
+-Code Cleanup: Conduct a thorough code review and clean up any unnecessary or redundant code.
+
+-Testing: Test the modified index.html file in various web browsers to ensure compatibility and accessibility.
+
+-Deployment: Deploy the application to a web server or hosting service. Update the live URL in the project documentation.
+
+-Documentation: Update any relevant project documentation to reflect the changes made to the index.html file.
+
+-Accessibility Check: Conduct an accessibility check to ensure that the web page adheres to web accessibility standards.
+
+-Final Testing: Test the live application to ensure it functions as expected, with all the structural and semantic improvements in place.
 
 ## Credits
 Used these links in order to:
