@@ -56,6 +56,9 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 - Write a good readme
 https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
 
+Link to website
+http://127.0.0.1:5500/index.html
+
 ## Features
 This project includes the following key features:
 
