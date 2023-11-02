@@ -2,6 +2,8 @@
 
 ## Description
 
+This project is aimed at enhancing the structural and semantic aspects of an "index.html" file. The primary goal is to improve the overall accessibility, readability and search engine optimization of the HTML document. This involves updating HTML semantic elements, adding logical structure alongside styling and positioning, including alt attributes for icon and image elements, and providing a concise, descriptive title for the HTML document.
+
 Module 1 challenge - HTML CSS Git Challenge
 
 - The key of this objective was to clean up a code 
