@@ -56,10 +56,9 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 - Write a good readme
 https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
 
-Link to website
-
 Screenshot
 ![127 0 0 1_5500_index html](https://github.com/Domj1204/Code-Refactor/assets/148828606/d65f0201-ec34-4114-bb34-3ba392a68679)
+
 
 ## Features
 This project includes the following key features:
